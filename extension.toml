@@ -1,0 +1,7 @@
+id = "quiet-dark"
+name = "Quiet Dark"
+version = "0.0.1"
+schema_version = 1
+authors = ["zabackary"]
+description = "Quiet Dark"
+repository = "https://github.com/your-name/my-zed-extension"
